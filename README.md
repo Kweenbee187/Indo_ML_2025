@@ -120,7 +120,7 @@ Test Set: 1,214 samples
 
 ```bash
 # Clone this repository
-git clone [https://github.com/tituatgithub/INDO_ML.git]
+git clone [https://github.com/Kweenbee187/Indo_ML_2025.git]
 cd ai-tutor-evaluation
 
 # Install required packages
